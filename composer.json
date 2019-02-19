@@ -55,7 +55,6 @@
         "zendframework/zend-console": "self.version",
         "zendframework/zend-crypt": "self.version",
         "zendframework/zend-db": "self.version",
-        "zendframework/zend-debug": "self.version",
         "zendframework/zend-di": "self.version",
         "zendframework/zend-dom": "self.version",
         "zendframework/zend-escaper": "self.version",
