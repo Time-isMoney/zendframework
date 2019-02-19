@@ -72,7 +72,6 @@
         "zendframework/zend-memory": "self.version",
         "zendframework/zend-mime": "self.version",
         "zendframework/zend-modulemanager": "self.version",
-        "zendframework/zend-mvc": "self.version",
         "zendframework/zend-navigation": "self.version",
         "zendframework/zend-paginator": "self.version",
         "zendframework/zend-permissions-acl": "self.version",
