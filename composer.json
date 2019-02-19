@@ -82,7 +82,6 @@
         "zendframework/zend-tag": "self.version",
         "zendframework/zend-test": "self.version",
         "zendframework/zend-text": "self.version",
-        "zendframework/zend-uri": "self.version",
         "zendframework/zend-version": "self.version",
         "zendframework/zend-view": "self.version",
         "zendframework/zend-xmlrpc": "self.version"
