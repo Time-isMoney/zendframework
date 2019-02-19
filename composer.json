@@ -58,7 +58,6 @@
         "zendframework/zend-di": "self.version",
         "zendframework/zend-dom": "self.version",
         "zendframework/zend-escaper": "self.version",
-        "zendframework/zend-eventmanager": "self.version",
         "zendframework/zend-feed": "self.version",
         "zendframework/zend-file": "self.version",
         "zendframework/zend-http": "self.version",
